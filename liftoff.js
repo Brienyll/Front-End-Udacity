@@ -10,12 +10,7 @@ Activate main engine hydrogen burnoff system (T-10 seconds)
 Main engine start (T-6 seconds)
 Solid rocket booster ignition and liftoff! (T-0 seconds)
 NOTE: "T-50 seconds" read as "T-minus 50 seconds".
- 
- 
  */
-
-// your code goes here
-
 var num = 60;
 
 while (num >= 0) {
