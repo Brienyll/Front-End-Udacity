@@ -3,7 +3,6 @@ function laugh(num) {
     for (var x = 0; x < num; x++) {
     word += ('ha');
     }
-    return (word + '!');
+    return ( word + '!');
 }
-
 console.log(laugh(3));
