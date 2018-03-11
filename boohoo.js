@@ -5,9 +5,7 @@
  */
 
 // your code goes here
-
 var cry = function boo(){
     return 'boohoo!';
 };
-
 console.log(cry());
