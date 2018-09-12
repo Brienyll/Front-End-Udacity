@@ -21,9 +21,6 @@ class Bicycle extends Vehicle {
         this.horn = horn;
     }
 }
-
-// your code goes here
-
 /* tests
 const myVehicle = new Vehicle();
 myVehicle.honkHorn(); // beep beep
